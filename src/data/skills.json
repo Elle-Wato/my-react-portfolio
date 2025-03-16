@@ -12,16 +12,20 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "JavaScript",
+    "imageSrc": "skills/JavaScript.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
-    "title": "MongoDB",
+    "title": "SqlAlchemy",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-1713916787253.webp"
   },
   {
     "title": "Figma",

@@ -3,24 +3,24 @@
     "title": "Project A",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "JavaScript", "CSS", "HTML"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Elle-Wato/Cineflix-app"
   },
   {
     "title": "Project B",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["React", "Flask", "SqlAlchemy", "CSS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/GMwiti/Order-Link"
   },
   {
     "title": "Project C",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React", "Python", "Flask", "Postgresql"],
+    "demo": "https://eventyangu-8sbm.onrender.com/",
+    "source": "https://github.com/Moringa-SDF-PTO7/EventYangu"
   }
 ]

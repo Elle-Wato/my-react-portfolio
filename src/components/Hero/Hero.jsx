@@ -6,7 +6,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Wato Elle</h1>
+        <h1 className={styles.title}>Hi, I'm Elle</h1>
         <p className={styles.description}>
           I'm a passionate software engineer and recent graduate with expertise in 
           React.js, JavaScript, Python, and Flask. I enjoy building interactive web 
